@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: cobind
+Version: 1.0.1
+Summary: collocation analysis of genomics intervals
+Home-page: https://cobind.readthedocs.io/en/latest/
+Author: Liguo Wang
+Author-email: wangliguo78@gmail.com
+Keywords: genome regions,collocation,overlap,cooccur
+Platform: Linux
+Platform: MacOS
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: Python
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics
+Requires-Python: >=3.5
+License-File: LICENSE
