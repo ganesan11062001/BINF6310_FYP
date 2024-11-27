@@ -1,2 +1,0 @@
-cobindability
-psyco_full
